@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Paul Medina",
+      "email": "xekujony@mailinator.com",
+      "phone": "+1 (512) 386-3324"
+    },
+    {
+      "id": 2,
+      "name": "Rogan Day",
+      "email": "fofa@mailinator.com",
+      "phone": "+1 (977) 941-3262"
+    },
+    {
+      "id": 3,
+      "name": "Davis Donaldson",
+      "email": "vegaga@mailinator.com",
+      "phone": "+1 (763) 869-8629"
+    }
+  ]
+}
